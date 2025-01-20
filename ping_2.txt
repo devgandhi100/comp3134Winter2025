@@ -1,0 +1,13 @@
+PS C:\Users\devga> ping 167.99.185.35
+
+Pinging 167.99.185.35 with 32 bytes of data:
+Reply from 167.99.185.35: bytes=32 time=68ms TTL=55
+Reply from 167.99.185.35: bytes=32 time=34ms TTL=55
+Reply from 167.99.185.35: bytes=32 time=29ms TTL=55
+Reply from 167.99.185.35: bytes=32 time=25ms TTL=55
+
+Ping statistics for 167.99.185.35:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 25ms, Maximum = 68ms, Average = 39ms
+PS C:\Users\devga>

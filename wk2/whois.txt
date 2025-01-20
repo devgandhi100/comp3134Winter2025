@@ -1,0 +1,372 @@
+Domain Name: amazon.ca
+Registry Domain ID: D237-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: Markmonitor.com
+Updated Date: 2024-07-16T04:01:55Z
+Creation Date: 2000-09-19T18:44:39Z
+Registry Expiry Date: 2025-07-16T04:00:00Z
+Registrar: MarkMonitor International Canada Ltd.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 16390820-CIRA
+Registrant Name: Amazon Technologies, Inc. TMA499121
+Registrant Organization:
+Registrant Street: PO Box 8102
+Registrant City: Reno
+Registrant State/Province: NV
+Registrant Postal Code: 91423
+Registrant Country: US
+Registrant Phone: +1.2062664064
+Registrant Phone Ext:
+Registrant Fax: +1.2062667010
+Registrant Fax Ext:
+Registrant Email: email@amazon.com
+Registry Admin ID: 16310044-CIRA
+Admin Name: David C Arnett
+Admin Organization: Amazon Technologies, Inc. TMA499121
+Admin Street: PO Box 8102
+Admin City: Reno
+Admin State/Province: NV
+Admin Postal Code: 91423
+Admin Country: US
+Admin Phone: +1.2062664064
+Admin Phone Ext:
+Admin Fax: +1.2062667010
+Admin Fax Ext:
+Admin Email: email@amazon.com
+Registry Tech ID: 16310044-CIRA
+Tech Name: David C Arnett
+Tech Organization: Amazon Technologies, Inc. TMA499121
+Tech Street: PO Box 8102
+Tech City: Reno
+Tech State/Province: NV
+Tech Postal Code: 91423
+Tech Country: US
+Tech Phone: +1.2062664064
+Tech Phone Ext:
+Tech Fax: +1.2062667010
+Tech Fax Ext:
+Tech Email: email@amazon.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.amzndns.co.uk
+Name Server: ns1.amzndns.com
+Name Server: ns1.amzndns.net
+Name Server: ns1.amzndns.org
+Name Server: ns2.amzndns.co.uk
+Name Server: ns2.amzndns.com
+Name Server: ns2.amzndns.net
+Name Server: ns2.amzndns.org
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-01-15T04:37:28Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2025 Canadian Internet Registration Authority, (http://www.cira.ca/)
+----------------------------------------------------------------------------------
+Domain Name: rbi.com
+Registry Domain ID: 1349837_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2024-04-22T01:13:04Z
+Creation Date: 1994-04-25T00:00:00Z
+Registrar Registration Expiration Date: 2026-04-26T04:00:00Z
+Registrar: CSC CORPORATE DOMAINS, INC.
+Sponsoring Registrar IANA ID: 299
+Registrar Abuse Contact Email: email@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Restaurant Brands International Inc
+Registrant Street: 226 Wyecroft Road
+Registrant City: Oakville
+Registrant State/Province: 
+Registrant Postal Code: L6K3X7
+Registrant Country: CA
+Registrant Phone: +1.9058456511
+Registrant Phone Ext: 
+Registrant Fax: +1.9058456511
+Registrant Fax Ext: 
+Registrant Email: email@whopper.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Restaurant Brands International Inc
+Admin Street: 226 Wyecroft Road
+Admin City: Oakville
+Admin State/Province: 
+Admin Postal Code: L6K3X7
+Admin Country: CA
+Admin Phone: +1.9058456511
+Admin Phone Ext: 
+Admin Fax: +1.9058456511
+Admin Fax Ext: 
+Admin Email: email@whopper.com
+Registry Tech ID: 
+Tech Name: DNS Administrator
+Tech Organization: CSC Corporate Domains, Inc.
+Tech Street: 251 Little Falls Drive
+Tech City: Wilmington
+Tech State/Province: DE
+Tech Postal Code: 19808
+Tech Country: US
+Tech Phone: +1.3026365400
+Tech Phone Ext: 
+Tech Fax: +1.3026365454
+Tech Fax Ext: 
+Tech Email: email@cscglobal.com
+Name Server: udns2.cscdns.uk
+Name Server: udns1.cscdns.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-04-22T01:13:04Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Corporation Service Company(c) (CSC)  The Trusted Partner of More than 50% of the 100 Best Global Brands.
+
+Contact us to learn more about our enterprise solutions for Global Domain Name Registration and Management, Trademark Research and Watching, Brand, Logo and Auction Monitoring, as well SSL Certificate Services and DNS Hosting.
+
+NOTICE: You are not authorized to access or query our WHOIS database through the use of high-volume, automated, electronic processes or for the purpose or purposes of using the data in any manner that violates these terms of use. The Data in the CSC WHOIS database is provided by CSC for information purposes only, and to assist persons in obtaining information about or related to a domain name registration record. CSC does not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: you agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CSC (or its computer systems). CSC reserves the right to terminate your access to the WHOIS database in its sole discretion for any violations by you of these terms of use. CSC reserves the right to modify these terms at any time.
+
+Register your domain name at http://www.cscglobal.com
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Domain Name: FNP.COM
+Registry Domain ID: 15299_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com
+Updated Date: 2016-10-29T03:11:12Z
+Creation Date: 1996-03-20T00:00:00Z
+Registrar Registration Expiration Date: 2026-03-20T23:00:00Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: email@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: DomainsByProxy.com
+Registrant Street: 100 S. Mill Ave, Suite 1600
+Registrant City: Tempe
+Registrant State/Province: Arizona
+Registrant Postal Code: 85281
+Registrant Country: US
+Registrant Phone: +1.4806242599
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=FNP.COM
+Registry Tech ID: Not Available From Registry
+Tech Name: Registration Private
+Tech Organization: Domains By Proxy, LLC
+Tech Street: DomainsByProxy.com
+Tech Street: 100 S. Mill Ave, Suite 1600
+Tech City: Tempe
+Tech State/Province: Arizona
+Tech Postal Code: 85281
+Tech Country: US
+Tech Phone: +1.4806242599
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=FNP.COM
+Name Server: A1-36.AKAM.NET
+Name Server: A10-65.AKAM.NET
+Name Server: A11-66.AKAM.NET
+Name Server: A16-67.AKAM.NET
+Name Server: A20-64.AKAM.NET
+Name Server: A7-65.AKAM.NET
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-10T08:09:23Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: The data contained in this registrar's Whois database, while believed by the
+registrar to be reliable, is provided "as is" with no guarantee or warranties regarding its
+accuracy. This information is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of this data for any other purpose
+is expressly forbidden without the prior written permission of this registrar. By submitting
+an inquiry, you agree to these terms and limitations of warranty. In particular, you agree not
+to use this data to allow, enable, or otherwise support the dissemination or collection of this
+data, in part or in its entirety, for any purpose, such as transmission by e-mail, telephone,
+postal mail, facsimile or other means of mass unsolicited, commercial advertising or solicitations
+of any kind, including spam. You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data for any purpose, including
+mining this data for your own personal or commercial purposes. Failure to comply with these terms
+may result in termination of access to the Whois database. These terms may be subject to modification
+at any time without notice.
+----------------------------------------------------------------------------------------------------------
+Domain Name: fido.ca
+Registry Domain ID: D832368-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.cscglobal.com
+Updated Date: 2024-08-09T04:05:05Z
+Creation Date: 2000-10-16T14:34:18Z
+Registry Expiry Date: 2025-08-09T04:00:00Z
+Registrar: CSC Corporate Domains (Canada) Company
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: email@cscglobal.com
+Registrar Abuse Contact Phone: +1.3026365400
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 357664-CIRA
+Registrant Name: Rogers Communications Partnership
+Registrant Organization: Rogers Communications Partnership
+Registrant Street: 333 Bloor St. East., 9th Floor
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M4W1G9
+Registrant Country: CA
+Registrant Phone: +1.4169357938
+Registrant Phone Ext:
+Registrant Fax: +1.4169357627
+Registrant Fax Ext:
+Registrant Email: email@rci.rogers.com
+Registry Admin ID: C1816425-CIRA
+Admin Name: Debra Charlery
+Admin Organization: Fido Solutions Inc.
+Admin Street: 800,  rue de La Gauchetière West , Suite Bureau 4000
+Admin City: Montreal
+Admin State/Province: QC
+Admin Postal Code: H5A 1K3
+Admin Country: CA
+Admin Phone: 416-935-7938
+Admin Phone Ext:
+Admin Fax: 416-935-7627
+Admin Fax Ext:
+Admin Email: email@rci.rogers.com
+Registry Tech ID: C1816428-CIRA
+Tech Name: Rogers Shared - IT Services
+Tech Organization: Fido Solutions Inc.
+Tech Street: 800,  rue de La Gauchetière West, Suite Bureau 4000
+Tech City: Montreal
+Tech State/Province: QC
+Tech Postal Code: H5A1K3
+Tech Country: CA
+Tech Phone: +1.6477475312
+Tech Phone Ext:
+Tech Fax: +1.6477475312
+Tech Fax Ext:
+Tech Email: email@rci.rogers.com
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns-a1.rogers.com
+Name Server: ns-a3.rogers.com
+Name Server: ns-a6.rogers.com
+Name Server: ns-a8.rogers.com
+Name Server: ns-a9.rogers.com
+Name Server: ns1.rogers.com
+Name Server: ns2.net.rss.rogers.com
+Name Server: ns9.rogers.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-01-20T02:04:55Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2025 Canadian Internet Registration Authority, (http://www.cira.ca/)
+-----------------------------------------------------------------------------------------
+Domain Name: wisdomtreefinancials.com
+Registry Domain ID: 2501788179_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.squarespace.domains
+Registrar URL: https://domains2.squarespace.com
+Registrar: Squarespace Domains II LLC
+Registrar IANA ID: 895
+Registrar Abuse Contact Email: email@squarespace.com
+Registrar Abuse Contact Phone: +1.646-693-5324
+Reseller:
+Updated Date: 2024-06-05T00:32:34.261695Z
+Creation Date: 2020-03-10T00:13:08Z
+Registrar Registration Expiration Date: 2025-03-10T00:13:08Z
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID:
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization:
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: ON
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: CA
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext:
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext:
+Registrant Email: https://domains.squarespace.com/whois-contact-form
+Registry Admin ID:
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization:
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: ON
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: CA
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext:
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext:
+Admin Email: https://domains.squarespace.com/whois-contact-form
+Registry Tech ID:
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization:
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: ON
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: CA
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext:
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext:
+Tech Email: https://domains.squarespace.com/whois-contact-form
+Name Server: ns-cloud-d3.googledomains.com
+Name Server: ns-cloud-d4.googledomains.com
+Name Server: ns-cloud-d1.googledomains.com
+Name Server: ns-cloud-d2.googledomains.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+****** Last update of WHOIS database: 2024-06-05T00:32:34.261695Z

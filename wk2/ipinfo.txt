@@ -1,0 +1,24 @@
+Akamai Technologies, Inc.
+Location	Santa Clara, California, United States of America
+AS	AS16625
+AS name	Akamai Technologies, Inc.
+--------------------------------------------
+Microsoft Corporation
+Location	Sterling, Virginia, United States of America
+AS	AS8075
+AS name	Microsoft Corporation
+---------------------------------------------
+OVH Hosting, Inc.
+Location	Montréal, Quebec, Canada
+AS	AS16276
+AS name	OVH SAS
+-------------------------------------------------
+The George Brown College of Applied Arts and Technology
+Location	Toronto, Ontario, Canada
+AS	AS53566
+AS name	The George Brown College of Applied Arts and Technology
+--------------------------------------------------------
+Uber Technologies, Inc
+Location	San Francisco, California, United States of America
+AS	AS396982
+AS name	Google LLC
