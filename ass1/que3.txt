@@ -1,0 +1,13 @@
+PS C:\Users\devga> ping scotiabank.ca
+
+Pinging scotiabank.ca [2600:140a:5000:98a::36f4] with 32 bytes of data:
+Reply from 2600:140a:5000:98a::36f4: time=22ms
+Reply from 2600:140a:5000:98a::36f4: time=30ms
+Reply from 2600:140a:5000:98a::36f4: time=41ms
+Reply from 2600:140a:5000:98a::36f4: time=27ms
+
+Ping statistics for 2600:140a:5000:98a::36f4:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 22ms, Maximum = 41ms, Average = 30ms
+PS C:\Users\devga>
